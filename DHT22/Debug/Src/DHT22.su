@@ -1,0 +1,5 @@
+../Src/DHT22.c:15:6:DHT_GPIO_INIT	4	static
+../Src/DHT22.c:20:6:DHT_START	8	static
+../Src/DHT22.c:48:9:DHT22_RESPONSE	16	static
+../Src/DHT22.c:75:9:read_data_byte	16	static
+../Src/DHT22.c:91:9:DHT22_DATA	32	static
