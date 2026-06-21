@@ -33,7 +33,7 @@ typedef struct
 {
     uint16_t temperature;
     uint16_t humidity;
-} DHT22_t;
+} DHT_DATA;
 ```
 
 ---
